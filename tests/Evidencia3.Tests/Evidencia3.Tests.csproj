@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../../src/Evidencia3.Application/Evidencia3.Application.csproj" />
+    <ProjectReference Include="../../src/Evidencia3.Infrastructure/Evidencia3.Infrastructure.csproj" />
+    <ProjectReference Include="../../src/Evidencia3.Presentation/Evidencia3.Presentation.csproj" ReferenceOutputAssembly="false" />
+  </ItemGroup>
+</Project>

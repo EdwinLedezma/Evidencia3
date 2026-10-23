@@ -1,0 +1,18 @@
+[
+  {
+    "id": "11111111-1111-1111-1111-111111111111",
+    "titulo": "Preparar evidencia de tareas",
+    "descripcion": "Datos de demostración para modificación y eliminación.",
+    "responsable": "Edwin Ledezma",
+    "estado": "EnProceso",
+    "prioridad": "Alta"
+  },
+  {
+    "id": "22222222-2222-2222-2222-222222222222",
+    "titulo": "Revisar la funcionalidad",
+    "descripcion": "Esta tarea debe conservarse al eliminar la primera.",
+    "responsable": "Agustin Montoya",
+    "estado": "Pendiente",
+    "prioridad": "Media"
+  }
+]

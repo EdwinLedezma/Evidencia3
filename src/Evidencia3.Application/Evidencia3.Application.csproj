@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="../Evidencia3.Domain/Evidencia3.Domain.csproj" />
+  </ItemGroup>
+</Project>
