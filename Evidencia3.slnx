@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Evidencia3.Application/Evidencia3.Application.csproj" />
+    <Project Path="src/Evidencia3.Domain/Evidencia3.Domain.csproj" />
+    <Project Path="src/Evidencia3.Infrastructure/Evidencia3.Infrastructure.csproj" />
+    <Project Path="src/Evidencia3.Presentation/Evidencia3.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Evidencia3.Tests/Evidencia3.Tests.csproj" />
+  </Folder>
+</Solution>
