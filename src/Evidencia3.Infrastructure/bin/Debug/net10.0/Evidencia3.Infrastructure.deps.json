@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Evidencia3.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Evidencia3.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Evidencia3.Infrastructure.dll": {}
+        }
+      },
+      "Evidencia3.Domain/1.0.0": {
+        "runtime": {
+          "Evidencia3.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Evidencia3.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Evidencia3.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

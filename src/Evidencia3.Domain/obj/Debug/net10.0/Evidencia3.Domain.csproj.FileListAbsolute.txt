@@ -1,0 +1,12 @@
+/Users/rvlz/Evidencia3/src/Evidencia3.Domain/bin/Debug/net10.0/Evidencia3.Domain.deps.json
+/Users/rvlz/Evidencia3/src/Evidencia3.Domain/bin/Debug/net10.0/Evidencia3.Domain.dll
+/Users/rvlz/Evidencia3/src/Evidencia3.Domain/bin/Debug/net10.0/Evidencia3.Domain.pdb
+/Users/rvlz/Evidencia3/src/Evidencia3.Domain/obj/Debug/net10.0/Evidencia3.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rvlz/Evidencia3/src/Evidencia3.Domain/obj/Debug/net10.0/Evidencia3.Domain.AssemblyInfoInputs.cache
+/Users/rvlz/Evidencia3/src/Evidencia3.Domain/obj/Debug/net10.0/Evidencia3.Domain.AssemblyInfo.cs
+/Users/rvlz/Evidencia3/src/Evidencia3.Domain/obj/Debug/net10.0/Evidencia3.Domain.csproj.CoreCompileInputs.cache
+/Users/rvlz/Evidencia3/src/Evidencia3.Domain/obj/Debug/net10.0/Evidencia3.Domain.sourcelink.json
+/Users/rvlz/Evidencia3/src/Evidencia3.Domain/obj/Debug/net10.0/Evidencia3.Domain.dll
+/Users/rvlz/Evidencia3/src/Evidencia3.Domain/obj/Debug/net10.0/refint/Evidencia3.Domain.dll
+/Users/rvlz/Evidencia3/src/Evidencia3.Domain/obj/Debug/net10.0/Evidencia3.Domain.pdb
+/Users/rvlz/Evidencia3/src/Evidencia3.Domain/obj/Debug/net10.0/ref/Evidencia3.Domain.dll
