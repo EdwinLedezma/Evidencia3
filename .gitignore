@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+App_Data/
+
+# Archivos generados por .NET
+**/bin/
+**/obj/
+
+# Datos locales de prueba
+src/Evidencia3.Presentation/App_Data/tareas.json
