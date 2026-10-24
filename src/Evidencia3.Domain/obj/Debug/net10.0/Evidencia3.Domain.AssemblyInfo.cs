@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Evidencia3.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19c7c82978c5786111cfaf4036fcaaa342a060cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc49edbfb3860ea3031242e78e1235b39a438fee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Evidencia3.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Evidencia3.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
